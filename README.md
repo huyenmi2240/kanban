@@ -1,5 +1,4 @@
 # kanban
-I am trying to create a program in Java that would be used as a "ToDo List". I have some code already but don't seem to be able to make it work properly. I am using Eclipse to do this.
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.ActionEvent;
